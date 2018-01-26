@@ -1,0 +1,33 @@
+body{
+    margin: 10px;
+    width: 800px;
+    color: #3a3a3a;
+    font-size: 18px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.about {
+    clear: none;
+}
+
+.about img {
+    float: left;
+    border: 1px solid #363636;
+    padding: 2px;
+    margin: 0 20px 20px 0;
+}
+
+.reasons {
+    clear: both;
+}
+
+.technologies {
+    margin: 10px;
+}
+
+.resources {
+    margin: 10px;
+}
