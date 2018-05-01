@@ -1,0 +1,10 @@
+#location {
+    margin-bottom: 30px;
+}
+
+#map {
+    width: 92vw;
+    height: 62vh;
+    max-width: 800px;
+    max-height: 400px;
+}
