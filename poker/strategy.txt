@@ -1,0 +1,149 @@
+EARLY POSITION - (First 3 seats)
+
+PREMIUM HANDS
+AA
+KK
+QQ
+AK
+
+$-Protect your stack since out of positon
+$-Get value from the premium hands
+
+HOW TO PLAY
+1) Against weak (passive, no big bets/bluffs) or wild (calls/raises with weak hands/draws) opponents - Raise a solid amount for value, then play accordingly
+2) Against better (trickier players, capable of bluffs) opponents - Limp with the intention to re-raise, otherwise play cautiously
+
+LOW & MIDDLE PAIRS
+JJ
+TT
+99
+88
+77
+66
+55
+44
+33
+22
+
+$-Effectively balance your hand range
+$-Flop sets and win big pots
+
+HOW TO PLAY
+1) Limp or min-raise, then re-evaluate after the flop whether to continue
+2) Against loose (frequent pre-flop raises) opponents - Limp and re-raise to represent a premium holding
+
+STRONG HANDS
+AQ
+KQs
+AJs
+ATs
+
+$-Avoid limping/min-raising and then calling a raise behind
+$-If a tough player raises in position you may opt to throw away
+
+HOW TO PLAY
+1) Limp or min raise, then re-evaluate after the flop whether to check fold or call
+2) Against loose (frequent pre-flop raises) opponents - Limp and re-raise to represent a premium holding
+
+SUITED CONNECTORS
+JTs
+T9s
+98s
+87s
+76s
+65s
+54s
+
+$-Play occasionally to mix things up, represent a premium holding and see what develops
+
+--------------------------------------------------
+
+MIDDLE POSITION - (Middle 2 seats)
+
+PREMIUM HANDS
+AA
+KK
+QQ
+AK
+
+$-Get value from the premium hands
+
+HOW TO PLAY
+1) In any unraised pot, go ahead and raise a solid amount for value
+2) When facing a raise, re-raise to isolate and then play accordingly
+
+LOW & MIDDLE PAIRS
+JJ
+TT
+99
+88
+77
+66
+55
+44
+33
+22
+
+$-Flop sets and win big pots
+
+HOW TO PLAY
+1) When it's been folded around, open for a standard raise
+2) With limpers in the pot either min-raise to help build a pot or limp along cheaply
+3) When facing a raise, call and try to flop a set
+
+STRONG HANDS
+AQ
+AJs
+ATs
+KQs
+
+$-If a tough player raises first, or behind in position, you may opt to throw away
+
+HOW TO PLAY
+1) When it's been folded around, open for a standard raise
+2) With limpers in the pot either min-raise to help build a pot or limp along cheaply
+3) When facing a raise, call and re-evaluate the texture of the flop
+
+DECENT HANDS
+AJ
+AT
+KQ
+KJs
+QJs
+A9s
+A8s
+
+$-If loose and tough players behind, consider folding these hands
+$-Want to play heads up with position against the blinds
+
+HOW TO PLAY
+1) When it's been folded around, open for a standard raise
+2) With limpers in the pot either min-raise to help build a pot or limp along cheaply
+3) When facing a raise, fold
+
+MARGINAL HANDS
+A7s
+A6s
+A5s
+A4s
+A3s
+A2s
+JTs
+T9s
+98s
+87s
+76s
+65s
+54s
+KTs
+KJ
+
+$-If loose and tough players behind, consider folding these hands
+$-Want to play heads up with position against the blinds
+
+HOW TO PLAY
+1) When it's been folded around, open for a standard raise
+2) With limpers in the pot limp along cheaply
+3) When facing a raise, fold
+
+--------------------------------------------------
