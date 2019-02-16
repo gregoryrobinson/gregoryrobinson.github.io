@@ -102,7 +102,7 @@ function pickCard(card) {
 }
 
 function checkHand(hand) {
-   // $.getJSON("thecourse.txt", loadData);
+    $.getJSON("thecourse.txt", loadData);
 
     function loadData(data) {
         var position = $('input[name=positions]:checked').val();
