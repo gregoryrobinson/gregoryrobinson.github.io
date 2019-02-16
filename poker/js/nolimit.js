@@ -156,7 +156,7 @@ function checkHand(hand) {
             }
             $('#strategy').html(strategy);
             $('#extras').show();
-            $('#details').show();
+            $('#details').hide();
         }
     }
 }
