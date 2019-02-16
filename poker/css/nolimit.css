@@ -11,12 +11,23 @@ font-size: 1.0rem;
 form{
 margin: auto;
 padding: 5px 10px 5px 10px;
+padding: 5px 10px 5px 10px;
 background-color:  #ffffff;
 border: solid 2px #425955;
 }
 
 legend{
-font-size: 16px;    
+font-size: 16px;
+text-align: center;  
+}
+
+#position{
+font-size: 18px;
+text-align: center;  
+}
+
+#tips{
+margin-bottom: 20px;
 }
 
 p{
