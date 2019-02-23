@@ -11,16 +11,6 @@ $(function() {
 
     // Build and display the interface
     buildTable();
-    
-    // Show tool tips
-    $('.tool_tip').click(function () {
-        var $title = $(this).find(".title");
-        if (!$title.length) {
-            $(this).append('<span class="title">' + $(this).attr("title") + '</span>');
-        } else {
-            $title.remove();
-        }
-    });
 });
     
 // Build table for selecting cards
@@ -168,5 +158,15 @@ function checkHand(hand) {
             $('#extras').show();
             $('#details').show();
         }
+        
+        // Show tool tips
+        $('.tool_tip').click(function () {
+            var $title = $(this).find(".title");
+            if (!$title.length) {
+                $(this).append('<span class="title">' + $(this).attr("title") + '</span>');
+            } else {
+                $title.remove();
+            }
+        });
     }
 }
