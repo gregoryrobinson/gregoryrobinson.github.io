@@ -172,7 +172,7 @@ function checkHand(hand) {
         // Show tips & tricks
         $('.tricks').click(function () {
             if ($('#tricks').is(':visible')) {
-                $('#tricks').show();
+                $('#tricks').hide();
             } else {
                 $('#tricks').show();
             }
