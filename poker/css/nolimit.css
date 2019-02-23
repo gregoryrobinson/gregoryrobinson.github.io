@@ -92,14 +92,9 @@ color: red;
 font-size: .9rem;
 }
 
-.tool_tip {
-border-bottom: 1px dotted;
-}
-
 .tool_tip .title {
 position: inherit;
 background: silver;
-padding: 5px;
-left: 5px;
+padding-left: 5px;
 font-size: .75rem;
 }
