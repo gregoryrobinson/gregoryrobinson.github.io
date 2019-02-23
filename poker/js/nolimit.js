@@ -168,5 +168,14 @@ function checkHand(hand) {
                 $title.remove();
             }
         });
+
+        // Show tips & tricks
+        $('.tricks').click(function () {
+            if ($('#tricks').is(':visible')) {
+                $('#tricks').show();
+            } else {
+                $('#tricks').show();
+            }
+        });
     }
 }
