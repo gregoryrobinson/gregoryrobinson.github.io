@@ -171,7 +171,7 @@ function checkHand(hand) {
 
         // Show/hide content
         $('.show_hide').click(function () {
-            var item = $(this).find(".title");
+            var item = $(this).attr("title");
             console.log(item);
             $(item).toggle();
         });
