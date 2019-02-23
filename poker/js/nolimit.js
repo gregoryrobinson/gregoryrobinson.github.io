@@ -173,7 +173,7 @@ function checkHand(hand) {
         $('.show_hide').click(function () {
             var item = $(this).attr("title");
             console.log(item);
-            $('#'+item).toggle();
+            $('#' + item).toggle();
         });
     }
 }
