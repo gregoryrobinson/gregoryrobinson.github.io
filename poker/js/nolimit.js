@@ -144,13 +144,13 @@ function checkHand(hand) {
                             break;
                 }
                 switch(i) {
-                    case 0: strategy += '<div class="advice"><h3>If no one has raised...</h3><p>' + text + '</p></div>';
+                    case 0: strategy += '<div class="advice"><h3>If no one has <span class="tool_tip" title="Everyone at the table thus far has either limped or folded">raised...</span></h3><p>' + text + '</p></div>';
                             break;
-                    case 1: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from early position or a raise from a player who typically limps">tight raise</span>...</h3><p>' + text + '</p></div>';
+                    case 1: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from early position or a raise from a player who typically limps">tight raise...</span></h3><p>' + text + '</p></div>';
                             break;
-                    case 2: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from late position or a raise from a player who raises frequently">loose raise</span>...</h3><p>' + text + '</p></div>';
+                    case 2: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from late position or a raise from a player who raises frequently">loose raise...</span></h3><p>' + text + '</p></div>';
                             break;
-                    case 3: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from an aggressive player in late positon trying to steal the pot">steal raise</span>...</h3><p>' + text + '</p></div>';
+                    case 3: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from an aggressive player in late positon trying to steal the pot">steal raise...</span></h3><p>' + text + '</p></div>';
                             break;
                 }
             }
