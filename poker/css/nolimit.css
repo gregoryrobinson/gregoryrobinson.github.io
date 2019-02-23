@@ -98,3 +98,7 @@ background: silver;
 padding-left: 5px;
 font-size: .75rem;
 }
+
+.show_hide {
+visibility: hidden;
+}
