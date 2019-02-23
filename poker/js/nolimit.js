@@ -156,7 +156,6 @@ function checkHand(hand) {
             }
             $('#strategy').html(strategy);
             $('#extras').show();
-            $('#post_flop').hide();
             $('#details').show();
         }
         
@@ -170,9 +169,11 @@ function checkHand(hand) {
             }
         });
 
-        // Show tips & tricks
-        $('.post_flop').click(function () {
-            $('#post_flop').show();
+        // Show/hide content
+        $('.show_hide').click(function () {
+            var item = $(this).find(".title");
+            console.log(item);
+            $(item).toggle();
         });
     }
 }
