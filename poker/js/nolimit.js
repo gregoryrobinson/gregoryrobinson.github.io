@@ -11,6 +11,16 @@ $(function() {
 
     // Build and display the interface
     buildTable();
+    
+    // Show tool tips
+    $('.tool_tip').click(function () {
+        var $title = $(this).find(".title");
+        if (!$title.length) {
+            $(this).append('<span class="title">' + $(this).attr("title") + '</span>');
+        } else {
+            $title.remove();
+        }
+    });
 });
     
 // Build table for selecting cards
@@ -146,11 +156,11 @@ function checkHand(hand) {
                 switch(i) {
                     case 0: strategy += '<div class="advice"><h3>If no one has raised...</h3><p>' + text + '</p></div>';
                             break;
-                    case 1: strategy += '<div class="advice"><h3>Against a tight raise......</h3><p>' + text + '</p></div>';
+                    case 1: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from early position or a raise from a player who typically limps">tight raise</span>...</h3><p>' + text + '</p></div>';
                             break;
-                    case 2: strategy += '<div class="advice"><h3>Against a loose raise......</h3><p>' + text + '</p></div>';
+                    case 2: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from late position or a raise from a player who raises frequently">loose raise</span>...</h3><p>' + text + '</p></div>';
                             break;
-                    case 3: strategy += '<div class="advice"><h3>Against a steal raise......</h3><p>' + text + '</p></div>';
+                    case 3: strategy += '<div class="advice"><h3>Against a <span class="tool_tip" title="A raise from an aggressive player in late positon trying to steal the pot">steal raise</span>...</h3><p>' + text + '</p></div>';
                             break;
                 }
             }
