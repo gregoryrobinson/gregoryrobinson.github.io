@@ -100,5 +100,5 @@ font-size: .75rem;
 }
 
 .hide {
-visibility: hidden;
+display: none;
 }
