@@ -11,6 +11,13 @@ $(function() {
 
     // Build and display the interface
     buildTable();
+    
+    // Show/hide content
+    $('.show_hide').click(function () {
+        var item = $(this).attr("title");
+        $('#' + item).toggle();
+    });
+
 });
     
 // Build table for selecting cards
@@ -169,11 +176,5 @@ function checkHand(hand) {
             }
         });
 
-        // Show/hide content
-        $('.show_hide').click(function () {
-            var item = $(this).attr("title");
-            console.log(item);
-            $('#' + item).toggle();
-        });
     }
 }
