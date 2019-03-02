@@ -6,12 +6,11 @@ body{
 font-family: Helvetica;
 background-color: #f1f2d8;
 font-size: 1.0rem;
-margin: 5px;
+margin: 2.5px;
 }
 
 form{
 margin: auto;
-padding: 5px 10px 5px 10px;
 padding: 5px 10px 5px 10px;
 background-color:  #ffffff;
 border: solid 2px #425955;
@@ -28,7 +27,7 @@ text-align: center;
 }
 
 #hand{
-margin: 15px 0 15px 0;
+margin: 20px 0 20px 0;
 }
 
 p{
