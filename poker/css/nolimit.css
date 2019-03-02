@@ -28,7 +28,7 @@ text-align: center;
 }
 
 #hand{
-margin: 10px 0 10px 0;
+margin: 15px 0 15px 0;
 }
 
 p{
@@ -100,10 +100,10 @@ font-size: .75rem;
 }
 
 .clear {
-margin-bottom:25px;
+margin-bottom: 30px;
 }
 
 .hide {
 display: none;
-margin-bottom:25px;
+margin-bottom: 30px;
 }
