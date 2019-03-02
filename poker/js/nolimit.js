@@ -13,7 +13,7 @@ $(function() {
     buildTable();
     
     // Show/hide content
-    $('.show_hide').click(function () {
+    $('.show').click(function () {
         var item = $(this).attr("title");
         $('#' + item).toggle();
     });
