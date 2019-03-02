@@ -38,8 +38,8 @@ margin: 5px 0 5px 0;
 h1 {
 font-size: 1.1rem;
 font-weight: bold;
-margin-top: 5px;
-margin-bottom: 5px;
+margin: 10px 0 10px 0;
+padding: 2px;
 }
 
 h3 {
