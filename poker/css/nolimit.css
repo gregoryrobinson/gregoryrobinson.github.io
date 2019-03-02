@@ -99,6 +99,11 @@ padding-left: 5px;
 font-size: .75rem;
 }
 
+.clear {
+margin-bottom:25px;
+}
+
 .hide {
 display: none;
+margin-bottom:25px;
 }
